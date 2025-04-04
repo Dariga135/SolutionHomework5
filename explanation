@@ -1,0 +1,9 @@
+1)Problem Solved by Flyweight Pattern
+In a map application, thousands of location markers (like gas stations, restaurants, and hospitals) are displayed. 
+Each marker has a style (icon, color, label), and if we store these styles separately for every marker, it wastes a lot of memory.
+
+How Flyweight Optimizes the Design
+The Flyweight Pattern saves memory by sharing common styles instead of creating a new style for each marker. 
+Markers only store unique information (like location), while styles are reused. This makes the app faster, more efficient, and easier to maintain.
+
+2) 
