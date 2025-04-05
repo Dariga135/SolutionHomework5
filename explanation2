@@ -1,0 +1,7 @@
+2) Problem Solved by Proxy Pattern
+For example, in a real estate website, high-resolution property images take a long time to load and use a lot of memory. 
+If all images load at once, the website becomes slow and unresponsive.
+
+How Proxy Optimizes the Design
+The Proxy Pattern fixes this by first showing a small thumbnail instead of the full image. 
+The high-resolution image is only loaded when the user clicks on it. This makes the website faster, saves memory, and improves user experience.
